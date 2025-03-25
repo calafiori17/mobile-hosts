@@ -18,6 +18,9 @@ if ( ! empty( $_GET['url'] ) && ! empty( $_GET['name'] ) ) {
 	$lists = array(
 		// Mobile Ads
 		'AdguardMobileAds' => 'https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_11_Mobile/filter.txt',
+
+		// AdGuard File Ori
+		'Adguard Ori' => 'https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt',
 	
 		// Mobile Tracking + Spyware
 		'AdguardMobileSpyware' => 'https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/SpywareFilter/sections/mobile.txt',
