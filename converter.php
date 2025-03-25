@@ -19,7 +19,7 @@ if ( ! empty( $_GET['url'] ) && ! empty( $_GET['name'] ) ) {
 		// Mobile Ads
 		'AdguardMobileAds' => 'https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_11_Mobile/filter.txt',
 
-		// AdGuard File Ori
+		// AdGuard File Orian
 		'Adguard Ori' => 'https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt',
 	
 		// Mobile Tracking + Spyware
