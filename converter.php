@@ -17,7 +17,7 @@ if ( ! empty( $_GET['url'] ) && ! empty( $_GET['name'] ) ) {
 } else {
 	$lists = array(
 		// Mobile Ads
-		'AdguardMobileAds' => 'https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_11_Mobile/filter.txt',
+		'AdguardMobileAds' => 'https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt',
 
 		// AdGuard File Orian
 		'Adguard Ori' => 'https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt',
